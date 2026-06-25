@@ -1,0 +1,706 @@
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 126/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 71/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.004 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.000 drowsy=0.996 fidgeting=0.000 -> drowsy | attention_score=0
+attentive=0.008 drowsy=0.984 fidgeting=0.012 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.152 drowsy=0.437 fidgeting=0.410 -> drowsy | attention_score=15
+attentive=0.137 drowsy=0.605 fidgeting=0.258 -> drowsy | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.117 drowsy=0.730 fidgeting=0.152 -> drowsy | attention_score=12
+attentive=0.191 drowsy=0.102 fidgeting=0.703 -> fidgeting | attention_score=19
+Collecting IMU window: 65/128
+attentive=0.125 drowsy=0.113 fidgeting=0.758 -> fidgeting | attention_score=13
+attentive=0.180 drowsy=0.117 fidgeting=0.703 -> fidgeting | attention_score=18
+Collecting IMU window: 65/128
+attentive=0.242 drowsy=0.070 fidgeting=0.687 -> fidgeting | attention_score=24
+attentive=0.238 drowsy=0.070 fidgeting=0.691 -> fidgeting | attention_score=24
+Collecting IMU window: 65/128
+attentive=0.309 drowsy=0.078 fidgeting=0.613 -> fidgeting | attention_score=31
+attentive=0.324 drowsy=0.090 fidgeting=0.582 -> fidgeting | attention_score=33
+Collecting IMU window: 65/128
+attentive=0.273 drowsy=0.105 fidgeting=0.621 -> fidgeting | attention_score=27
+attentive=0.301 drowsy=0.102 fidgeting=0.598 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.352 drowsy=0.082 fidgeting=0.570 -> fidgeting | attention_score=35
+attentive=0.332 drowsy=0.090 fidgeting=0.578 -> fidgeting | attention_score=33
+Collecting IMU window: 65/128
+attentive=0.281 drowsy=0.109 fidgeting=0.609 -> fidgeting | attention_score=28
+attentive=0.266 drowsy=0.102 fidgeting=0.637 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.258 drowsy=0.082 fidgeting=0.660 -> fidgeting | attention_score=26
+attentive=0.234 drowsy=0.105 fidgeting=0.660 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.129 fidgeting=0.605 -> fidgeting | attention_score=27
+attentive=0.293 drowsy=0.090 fidgeting=0.617 -> fidgeting | attention_score=29
+Collecting IMU window: 65/128
+attentive=0.316 drowsy=0.094 fidgeting=0.590 -> fidgeting | attention_score=32
+attentive=0.336 drowsy=0.105 fidgeting=0.562 -> fidgeting | attention_score=33
+Collecting IMU window: 65/128
+attentive=0.293 drowsy=0.105 fidgeting=0.602 -> fidgeting | attention_score=29
+attentive=0.230 drowsy=0.109 fidgeting=0.656 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.102 drowsy=0.297 fidgeting=0.605 -> fidgeting | attention_score=10
+attentive=0.023 drowsy=0.926 fidgeting=0.051 -> drowsy | attention_score=2
+Collecting IMU window: 65/128
+attentive=0.012 drowsy=0.961 fidgeting=0.023 -> drowsy | attention_score=1
+attentive=0.109 drowsy=0.629 fidgeting=0.262 -> drowsy | attention_score=11
+Collecting IMU window: 65/128
+attentive=0.250 drowsy=0.187 fidgeting=0.562 -> fidgeting | attention_score=25
+attentive=0.219 drowsy=0.113 fidgeting=0.664 -> fidgeting | attention_score=22
+Collecting IMU window: 65/128
+attentive=0.125 drowsy=0.680 fidgeting=0.195 -> drowsy | attention_score=13
+attentive=0.043 drowsy=0.898 fidgeting=0.059 -> drowsy | attention_score=4
+Collecting IMU window: 65/128
+attentive=0.031 drowsy=0.922 fidgeting=0.047 -> drowsy | attention_score=3
+attentive=0.102 drowsy=0.695 fidgeting=0.203 -> drowsy | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.215 drowsy=0.078 fidgeting=0.711 -> fidgeting | attention_score=21
+attentive=0.137 drowsy=0.719 fidgeting=0.145 -> drowsy | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.008 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=1
+attentive=0.180 drowsy=0.621 fidgeting=0.199 -> drowsy | attention_score=18
+Collecting IMU window: 65/128
+attentive=0.320 drowsy=0.082 fidgeting=0.598 -> fidgeting | attention_score=32
+attentive=0.219 drowsy=0.090 fidgeting=0.687 -> fidgeting | attention_score=22
+Collecting IMU window: 65/128
+attentive=0.187 drowsy=0.078 fidgeting=0.734 -> fidgeting | attention_score=19
+attentive=0.105 drowsy=0.602 fidgeting=0.293 -> drowsy | attention_score=11
+Collecting IMU window: 65/128
+attentive=0.051 drowsy=0.883 fidgeting=0.066 -> drowsy | attention_score=5
+attentive=0.199 drowsy=0.285 fidgeting=0.516 -> fidgeting | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.223 drowsy=0.156 fidgeting=0.625 -> fidgeting | attention_score=22
+attentive=0.211 drowsy=0.039 fidgeting=0.750 -> fidgeting | attention_score=21
+Collecting IMU window: 65/128
+attentive=0.195 drowsy=0.031 fidgeting=0.770 -> fidgeting | attention_score=20
+attentive=0.242 drowsy=0.051 fidgeting=0.707 -> fidgeting | attention_score=24
+Collecting IMU window: 65/128
+attentive=0.215 drowsy=0.051 fidgeting=0.734 -> fidgeting | attention_score=21
+attentive=0.191 drowsy=0.523 fidgeting=0.281 -> drowsy | attention_score=19
+Collecting IMU window: 65/128
+attentive=0.195 drowsy=0.590 fidgeting=0.215 -> drowsy | attention_score=20
+attentive=0.223 drowsy=0.059 fidgeting=0.719 -> fidgeting | attention_score=22
+Collecting IMU window: 65/128
+attentive=0.219 drowsy=0.074 fidgeting=0.707 -> fidgeting | attention_score=22
+attentive=0.277 drowsy=0.113 fidgeting=0.609 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.285 drowsy=0.090 fidgeting=0.625 -> fidgeting | attention_score=29
+attentive=0.098 drowsy=0.676 fidgeting=0.223 -> drowsy | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.012 drowsy=0.973 fidgeting=0.016 -> drowsy | attention_score=1
+attentive=0.156 drowsy=0.672 fidgeting=0.172 -> drowsy | attention_score=16
+Collecting IMU window: 65/128
+attentive=0.328 drowsy=0.184 fidgeting=0.488 -> fidgeting | attention_score=33
+attentive=0.082 drowsy=0.695 fidgeting=0.223 -> drowsy | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.121 drowsy=0.613 fidgeting=0.266 -> drowsy | attention_score=12
+attentive=0.203 drowsy=0.070 fidgeting=0.727 -> fidgeting | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.074 drowsy=0.055 fidgeting=0.871 -> fidgeting | attention_score=7
+attentive=0.082 drowsy=0.414 fidgeting=0.504 -> fidgeting | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.176 drowsy=0.512 fidgeting=0.312 -> drowsy | attention_score=18
+attentive=0.062 drowsy=0.016 fidgeting=0.922 -> fidgeting | attention_score=6
+Collecting IMU window: 65/128
+attentive=0.035 drowsy=0.020 fidgeting=0.949 -> fidgeting | attention_score=4
+attentive=0.066 drowsy=0.445 fidgeting=0.488 -> fidgeting | attention_score=7
+Collecting IMU window: 65/128
+attentive=0.113 drowsy=0.527 fidgeting=0.359 -> drowsy | attention_score=11
+attentive=0.187 drowsy=0.348 fidgeting=0.465 -> fidgeting | attention_score=19
+Collecting IMU window: 65/128
+attentive=0.047 drowsy=0.906 fidgeting=0.047 -> drowsy | attention_score=5
+Collecting IMU window: 126/128
+attentive=0.164 drowsy=0.656 fidgeting=0.180 -> drowsy | attention_score=16
+attentive=0.102 drowsy=0.094 fidgeting=0.805 -> fidgeting | attention_score=10
+Collecting IMU window: 69/128
+attentive=0.078 drowsy=0.422 fidgeting=0.500 -> fidgeting | attention_score=8
+attentive=0.156 drowsy=0.488 fidgeting=0.355 -> drowsy | attention_score=16
+Collecting IMU window: 65/128
+attentive=0.203 drowsy=0.078 fidgeting=0.719 -> fidgeting | attention_score=20
+attentive=0.133 drowsy=0.109 fidgeting=0.754 -> fidgeting | attention_score=13
+Collecting IMU window: 65/128
+attentive=0.109 drowsy=0.086 fidgeting=0.801 -> fidgeting | attention_score=11
+attentive=0.055 drowsy=0.031 fidgeting=0.914 -> fidgeting | attention_score=5
+Collecting IMU window: 65/128
+attentive=0.027 drowsy=0.008 fidgeting=0.965 -> fidgeting | attention_score=3
+attentive=0.148 drowsy=0.012 fidgeting=0.836 -> fidgeting | attention_score=15
+Collecting IMU window: 65/128
+attentive=0.168 drowsy=0.078 fidgeting=0.750 -> fidgeting | attention_score=17
+attentive=0.152 drowsy=0.094 fidgeting=0.754 -> fidgeting | attention_score=15
+Collecting IMU window: 65/128
+attentive=0.230 drowsy=0.059 fidgeting=0.715 -> fidgeting | attention_score=23
+attentive=0.262 drowsy=0.141 fidgeting=0.594 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.273 drowsy=0.105 fidgeting=0.621 -> fidgeting | attention_score=27
+attentive=0.262 drowsy=0.070 fidgeting=0.672 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.285 drowsy=0.074 fidgeting=0.641 -> fidgeting | attention_score=29
+attentive=0.098 drowsy=0.414 fidgeting=0.488 -> fidgeting | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.090 drowsy=0.445 fidgeting=0.461 -> fidgeting | attention_score=9
+attentive=0.289 drowsy=0.125 fidgeting=0.590 -> fidgeting | attention_score=29
+Collecting IMU window: 65/128
+attentive=0.301 drowsy=0.227 fidgeting=0.473 -> fidgeting | attention_score=30
+attentive=0.285 drowsy=0.336 fidgeting=0.383 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.363 drowsy=0.262 fidgeting=0.375 -> fidgeting | attention_score=36
+attentive=0.344 drowsy=0.133 fidgeting=0.523 -> fidgeting | attention_score=34
+Collecting IMU window: 65/128
+attentive=0.102 drowsy=0.082 fidgeting=0.816 -> fidgeting | attention_score=10
+attentive=0.148 drowsy=0.121 fidgeting=0.730 -> fidgeting | attention_score=15
+Collecting IMU window: 65/128
+attentive=0.332 drowsy=0.094 fidgeting=0.574 -> fidgeting | attention_score=33
+attentive=0.301 drowsy=0.332 fidgeting=0.367 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.262 drowsy=0.297 fidgeting=0.441 -> fidgeting | attention_score=26
+attentive=0.125 drowsy=0.043 fidgeting=0.828 -> fidgeting | attention_score=13
+Collecting IMU window: 65/128
+attentive=0.074 drowsy=0.066 fidgeting=0.855 -> fidgeting | attention_score=7
+attentive=0.203 drowsy=0.082 fidgeting=0.715 -> fidgeting | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.277 drowsy=0.094 fidgeting=0.629 -> fidgeting | attention_score=28
+attentive=0.273 drowsy=0.145 fidgeting=0.582 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.285 drowsy=0.066 fidgeting=0.648 -> fidgeting | attention_score=29
+attentive=0.266 drowsy=0.051 fidgeting=0.684 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.113 drowsy=0.059 fidgeting=0.828 -> fidgeting | attention_score=11
+attentive=0.098 drowsy=0.055 fidgeting=0.848 -> fidgeting | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.207 drowsy=0.352 fidgeting=0.441 -> fidgeting | attention_score=21
+attentive=0.156 drowsy=0.559 fidgeting=0.281 -> drowsy | attention_score=16
+Collecting IMU window: 65/128
+attentive=0.203 drowsy=0.234 fidgeting=0.562 -> fidgeting | attention_score=20
+attentive=0.258 drowsy=0.051 fidgeting=0.687 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.293 drowsy=0.082 fidgeting=0.621 -> fidgeting | attention_score=29
+attentive=0.301 drowsy=0.082 fidgeting=0.617 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.086 drowsy=0.582 fidgeting=0.336 -> drowsy | attention_score=9
+attentive=0.016 drowsy=0.945 fidgeting=0.039 -> drowsy | attention_score=2
+Collecting IMU window: 65/128
+attentive=0.133 drowsy=0.629 fidgeting=0.238 -> drowsy | attention_score=13
+attentive=0.254 drowsy=0.152 fidgeting=0.594 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.312 drowsy=0.105 fidgeting=0.582 -> fidgeting | attention_score=31
+attentive=0.348 drowsy=0.254 fidgeting=0.398 -> fidgeting | attention_score=35
+Collecting IMU window: 65/128
+attentive=0.348 drowsy=0.285 fidgeting=0.371 -> fidgeting | attention_score=35
+attentive=0.320 drowsy=0.219 fidgeting=0.461 -> fidgeting | attention_score=32
+Collecting IMU window: 65/128
+attentive=0.277 drowsy=0.113 fidgeting=0.609 -> fidgeting | attention_score=28
+attentive=0.277 drowsy=0.082 fidgeting=0.641 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.137 drowsy=0.672 fidgeting=0.191 -> drowsy | attention_score=14
+attentive=0.066 drowsy=0.777 fidgeting=0.156 -> drowsy | attention_score=7
+Collecting IMU window: 65/128
+attentive=0.066 drowsy=0.090 fidgeting=0.844 -> fidgeting | attention_score=7
+attentive=0.117 drowsy=0.242 fidgeting=0.641 -> fidgeting | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.160 drowsy=0.348 fidgeting=0.496 -> fidgeting | attention_score=16
+attentive=0.141 drowsy=0.781 fidgeting=0.078 -> drowsy | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.090 drowsy=0.863 fidgeting=0.047 -> drowsy | attention_score=9
+attentive=0.074 drowsy=0.227 fidgeting=0.699 -> fidgeting | attention_score=7
+Collecting IMU window: 65/128
+attentive=0.086 drowsy=0.574 fidgeting=0.340 -> drowsy | attention_score=9
+attentive=0.125 drowsy=0.605 fidgeting=0.270 -> drowsy | attention_score=13
+Collecting IMU window: 65/128
+attentive=0.117 drowsy=0.695 fidgeting=0.187 -> drowsy | attention_score=12
+attentive=0.160 drowsy=0.551 fidgeting=0.289 -> drowsy | attention_score=16
+Collecting IMU window: 65/128
+attentive=0.262 drowsy=0.160 fidgeting=0.574 -> fidgeting | attention_score=26
+attentive=0.262 drowsy=0.398 fidgeting=0.340 -> drowsy | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.133 drowsy=0.738 fidgeting=0.133 -> drowsy | attention_score=13
+attentive=0.035 drowsy=0.926 fidgeting=0.043 -> drowsy | attention_score=4
+Collecting IMU window: 65/128
+attentive=0.020 drowsy=0.953 fidgeting=0.027 -> drowsy | attention_score=2
+attentive=0.125 drowsy=0.551 fidgeting=0.328 -> drowsy | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.227 drowsy=0.266 fidgeting=0.508 -> fidgeting | attention_score=23
+attentive=0.090 drowsy=0.734 fidgeting=0.176 -> drowsy | attention_score=9
+Collecting IMU window: 65/128
+attentive=0.012 drowsy=0.965 fidgeting=0.023 -> drowsy | attention_score=1
+attentive=0.152 drowsy=0.504 fidgeting=0.344 -> drowsy | attention_score=15
+Collecting IMU window: 65/128
+attentive=0.145 drowsy=0.621 fidgeting=0.234 -> drowsy | attention_score=14
+attentive=0.102 drowsy=0.801 fidgeting=0.102 -> drowsy | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.125 drowsy=0.613 fidgeting=0.262 -> drowsy | attention_score=13
+attentive=0.023 drowsy=0.926 fidgeting=0.051 -> drowsy | attention_score=2
+Collecting IMU window: 65/128
+attentive=0.039 drowsy=0.863 fidgeting=0.098 -> drowsy | attention_score=4
+Collecting IMU window: 128/128
+attentive=0.059 drowsy=0.844 fidgeting=0.098 -> drowsy | attention_score=6
+attentive=0.035 drowsy=0.926 fidgeting=0.043 -> drowsy | attention_score=4
+Collecting IMU window: 89/128
+attentive=0.129 drowsy=0.555 fidgeting=0.320 -> drowsy | attention_score=13
+attentive=0.207 drowsy=0.227 fidgeting=0.566 -> fidgeting | attention_score=21
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.125 fidgeting=0.605 -> fidgeting | attention_score=27
+attentive=0.277 drowsy=0.074 fidgeting=0.648 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.289 drowsy=0.082 fidgeting=0.629 -> fidgeting | attention_score=29
+attentive=0.293 drowsy=0.090 fidgeting=0.617 -> fidgeting | attention_score=29
+Collecting IMU window: 65/128
+attentive=0.301 drowsy=0.086 fidgeting=0.613 -> fidgeting | attention_score=30
+attentive=0.289 drowsy=0.082 fidgeting=0.629 -> fidgeting | attention_score=29
+Collecting IMU window: 65/128
+attentive=0.289 drowsy=0.078 fidgeting=0.633 -> fidgeting | attention_score=29
+attentive=0.250 drowsy=0.270 fidgeting=0.480 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.066 drowsy=0.129 fidgeting=0.801 -> fidgeting | attention_score=7
+attentive=0.051 drowsy=0.082 fidgeting=0.867 -> fidgeting | attention_score=5
+Collecting IMU window: 65/128
+attentive=0.066 drowsy=0.238 fidgeting=0.695 -> fidgeting | attention_score=7
+attentive=0.082 drowsy=0.617 fidgeting=0.301 -> drowsy | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.035 drowsy=0.750 fidgeting=0.219 -> drowsy | attention_score=4
+attentive=0.020 drowsy=0.918 fidgeting=0.059 -> drowsy | attention_score=2
+Collecting IMU window: 65/128
+attentive=0.070 drowsy=0.836 fidgeting=0.090 -> drowsy | attention_score=7
+attentive=0.180 drowsy=0.164 fidgeting=0.656 -> fidgeting | attention_score=18
+Collecting IMU window: 65/128
+attentive=0.094 drowsy=0.730 fidgeting=0.176 -> drowsy | attention_score=9
+attentive=0.008 drowsy=0.977 fidgeting=0.016 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.098 drowsy=0.680 fidgeting=0.227 -> drowsy | attention_score=10
+attentive=0.082 drowsy=0.680 fidgeting=0.238 -> drowsy | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.012 drowsy=0.973 fidgeting=0.020 -> drowsy | attention_score=1
+attentive=0.145 drowsy=0.590 fidgeting=0.262 -> drowsy | attention_score=15
+Collecting IMU window: 65/128
+attentive=0.102 drowsy=0.711 fidgeting=0.187 -> drowsy | attention_score=10
+attentive=0.027 drowsy=0.941 fidgeting=0.031 -> drowsy | attention_score=3
+Collecting IMU window: 65/128
+attentive=0.258 drowsy=0.324 fidgeting=0.418 -> fidgeting | attention_score=26
+attentive=0.273 drowsy=0.113 fidgeting=0.613 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.160 fidgeting=0.570 -> fidgeting | attention_score=27
+attentive=0.266 drowsy=0.074 fidgeting=0.660 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.309 drowsy=0.086 fidgeting=0.605 -> fidgeting | attention_score=31
+attentive=0.301 drowsy=0.086 fidgeting=0.613 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.285 drowsy=0.090 fidgeting=0.621 -> fidgeting | attention_score=29
+attentive=0.262 drowsy=0.082 fidgeting=0.656 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.074 fidgeting=0.660 -> fidgeting | attention_score=27
+attentive=0.301 drowsy=0.086 fidgeting=0.613 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.320 drowsy=0.086 fidgeting=0.594 -> fidgeting | attention_score=32
+attentive=0.312 drowsy=0.090 fidgeting=0.598 -> fidgeting | attention_score=31
+Collecting IMU window: 65/128
+attentive=0.281 drowsy=0.090 fidgeting=0.629 -> fidgeting | attention_score=28
+attentive=0.266 drowsy=0.074 fidgeting=0.660 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.277 drowsy=0.078 fidgeting=0.645 -> fidgeting | attention_score=28
+attentive=0.305 drowsy=0.090 fidgeting=0.605 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.312 drowsy=0.090 fidgeting=0.598 -> fidgeting | attention_score=31
+attentive=0.301 drowsy=0.086 fidgeting=0.613 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.078 fidgeting=0.656 -> fidgeting | attention_score=27
+attentive=0.230 drowsy=0.270 fidgeting=0.500 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.281 drowsy=0.312 fidgeting=0.406 -> fidgeting | attention_score=28
+attentive=0.328 drowsy=0.184 fidgeting=0.488 -> fidgeting | attention_score=33
+Collecting IMU window: 65/128
+attentive=0.312 drowsy=0.145 fidgeting=0.543 -> fidgeting | attention_score=31
+attentive=0.082 drowsy=0.336 fidgeting=0.582 -> fidgeting | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.023 drowsy=0.914 fidgeting=0.062 -> drowsy | attention_score=2
+attentive=0.008 drowsy=0.980 fidgeting=0.008 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.020 drowsy=0.953 fidgeting=0.027 -> drowsy | attention_score=2
+attentive=0.035 drowsy=0.930 fidgeting=0.039 -> drowsy | attention_score=4
+Collecting IMU window: 65/128
+attentive=0.016 drowsy=0.965 fidgeting=0.016 -> drowsy | attention_score=2
+attentive=0.012 drowsy=0.980 fidgeting=0.012 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.008 drowsy=0.980 fidgeting=0.012 -> drowsy | attention_score=1
+attentive=0.008 drowsy=0.980 fidgeting=0.012 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.008 drowsy=0.980 fidgeting=0.008 -> drowsy | attention_score=1
+attentive=0.008 drowsy=0.988 fidgeting=0.008 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.059 drowsy=0.883 fidgeting=0.055 -> drowsy | attention_score=6
+attentive=0.203 drowsy=0.230 fidgeting=0.570 -> fidgeting | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.078 drowsy=0.676 fidgeting=0.246 -> drowsy | attention_score=8
+attentive=0.008 drowsy=0.977 fidgeting=0.016 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.008 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=1
+attentive=0.008 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.008 drowsy=0.980 fidgeting=0.012 -> drowsy | attention_score=1
+attentive=0.008 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.004 drowsy=0.988 fidgeting=0.008 -> drowsy | attention_score=0
+attentive=0.008 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=1
+Collecting IMU window: 65/128
+attentive=0.008 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=1
+attentive=0.004 drowsy=0.984 fidgeting=0.008 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.012 drowsy=0.977 fidgeting=0.016 -> drowsy | attention_score=1
+attentive=0.039 drowsy=0.898 fidgeting=0.062 -> drowsy | attention_score=4
+Collecting IMU window: 65/128
+attentive=0.187 drowsy=0.227 fidgeting=0.586 -> fidgeting | attention_score=19
+attentive=0.145 drowsy=0.074 fidgeting=0.781 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.187 drowsy=0.168 fidgeting=0.645 -> fidgeting | attention_score=19
+attentive=0.211 drowsy=0.070 fidgeting=0.723 -> fidgeting | attention_score=21
+Collecting IMU window: 65/128
+attentive=0.203 drowsy=0.125 fidgeting=0.672 -> fidgeting | attention_score=20
+attentive=0.098 drowsy=0.215 fidgeting=0.687 -> fidgeting | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.047 drowsy=0.137 fidgeting=0.816 -> fidgeting | attention_score=5
+Collecting IMU window: 126/128
+attentive=0.062 drowsy=0.047 fidgeting=0.887 -> fidgeting | attention_score=6
+attentive=0.129 drowsy=0.293 fidgeting=0.578 -> fidgeting | attention_score=13
+Collecting IMU window: 70/128
+attentive=0.078 drowsy=0.445 fidgeting=0.477 -> fidgeting | attention_score=8
+attentive=0.102 drowsy=0.098 fidgeting=0.801 -> fidgeting | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.184 drowsy=0.113 fidgeting=0.703 -> fidgeting | attention_score=18
+attentive=0.262 drowsy=0.156 fidgeting=0.586 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.281 drowsy=0.301 fidgeting=0.418 -> fidgeting | attention_score=28
+attentive=0.250 drowsy=0.234 fidgeting=0.512 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.258 drowsy=0.121 fidgeting=0.621 -> fidgeting | attention_score=26
+attentive=0.277 drowsy=0.094 fidgeting=0.625 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.254 drowsy=0.336 fidgeting=0.410 -> fidgeting | attention_score=25
+attentive=0.223 drowsy=0.297 fidgeting=0.484 -> fidgeting | attention_score=22
+Collecting IMU window: 65/128
+attentive=0.230 drowsy=0.328 fidgeting=0.441 -> fidgeting | attention_score=23
+attentive=0.230 drowsy=0.309 fidgeting=0.457 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.199 drowsy=0.359 fidgeting=0.437 -> fidgeting | attention_score=20
+attentive=0.125 drowsy=0.652 fidgeting=0.223 -> drowsy | attention_score=13
+Collecting IMU window: 65/128
+attentive=0.238 drowsy=0.309 fidgeting=0.453 -> fidgeting | attention_score=24
+attentive=0.250 drowsy=0.187 fidgeting=0.562 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.141 drowsy=0.441 fidgeting=0.414 -> drowsy | attention_score=14
+attentive=0.113 drowsy=0.582 fidgeting=0.305 -> drowsy | attention_score=11
+Collecting IMU window: 65/128
+attentive=0.113 drowsy=0.387 fidgeting=0.500 -> fidgeting | attention_score=11
+attentive=0.141 drowsy=0.402 fidgeting=0.457 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.258 drowsy=0.102 fidgeting=0.641 -> fidgeting | attention_score=26
+attentive=0.262 drowsy=0.109 fidgeting=0.629 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.273 drowsy=0.168 fidgeting=0.559 -> fidgeting | attention_score=27
+attentive=0.305 drowsy=0.129 fidgeting=0.566 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.066 fidgeting=0.664 -> fidgeting | attention_score=27
+attentive=0.270 drowsy=0.059 fidgeting=0.672 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.273 drowsy=0.062 fidgeting=0.660 -> fidgeting | attention_score=27
+attentive=0.309 drowsy=0.098 fidgeting=0.594 -> fidgeting | attention_score=31
+Collecting IMU window: 65/128
+attentive=0.324 drowsy=0.133 fidgeting=0.543 -> fidgeting | attention_score=32
+attentive=0.305 drowsy=0.109 fidgeting=0.586 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.297 drowsy=0.082 fidgeting=0.625 -> fidgeting | attention_score=30
+attentive=0.316 drowsy=0.152 fidgeting=0.531 -> fidgeting | attention_score=32
+Collecting IMU window: 65/128
+attentive=0.297 drowsy=0.148 fidgeting=0.551 -> fidgeting | attention_score=30
+attentive=0.293 drowsy=0.082 fidgeting=0.621 -> fidgeting | attention_score=29
+Collecting IMU window: 65/128
+attentive=0.312 drowsy=0.113 fidgeting=0.574 -> fidgeting | attention_score=31
+attentive=0.316 drowsy=0.117 fidgeting=0.566 -> fidgeting | attention_score=32
+Collecting IMU window: 65/128
+attentive=0.289 drowsy=0.082 fidgeting=0.629 -> fidgeting | attention_score=29
+attentive=0.273 drowsy=0.066 fidgeting=0.660 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.285 drowsy=0.078 fidgeting=0.641 -> fidgeting | attention_score=28
+attentive=0.301 drowsy=0.090 fidgeting=0.609 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.309 drowsy=0.086 fidgeting=0.605 -> fidgeting | attention_score=31
+attentive=0.273 drowsy=0.086 fidgeting=0.641 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.289 drowsy=0.082 fidgeting=0.629 -> fidgeting | attention_score=29
+attentive=0.305 drowsy=0.109 fidgeting=0.586 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.324 drowsy=0.145 fidgeting=0.531 -> fidgeting | attention_score=32
+attentive=0.324 drowsy=0.113 fidgeting=0.562 -> fidgeting | attention_score=32
+Collecting IMU window: 65/128
+attentive=0.293 drowsy=0.082 fidgeting=0.621 -> fidgeting | attention_score=29
+attentive=0.285 drowsy=0.078 fidgeting=0.641 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.262 drowsy=0.062 fidgeting=0.676 -> fidgeting | attention_score=26
+attentive=0.234 drowsy=0.055 fidgeting=0.711 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.273 drowsy=0.074 fidgeting=0.652 -> fidgeting | attention_score=27
+attentive=0.336 drowsy=0.121 fidgeting=0.543 -> fidgeting | attention_score=34
+Collecting IMU window: 65/128
+attentive=0.332 drowsy=0.125 fidgeting=0.543 -> fidgeting | attention_score=33
+attentive=0.246 drowsy=0.082 fidgeting=0.672 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.105 drowsy=0.613 fidgeting=0.281 -> drowsy | attention_score=11
+attentive=0.031 drowsy=0.937 fidgeting=0.031 -> drowsy | attention_score=3
+Collecting IMU window: 65/128
+attentive=0.109 drowsy=0.637 fidgeting=0.254 -> drowsy | attention_score=11
+attentive=0.082 drowsy=0.461 fidgeting=0.461 -> drowsy | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.055 drowsy=0.258 fidgeting=0.687 -> fidgeting | attention_score=5
+attentive=0.055 drowsy=0.277 fidgeting=0.668 -> fidgeting | attention_score=5
+Collecting IMU window: 65/128
+attentive=0.102 drowsy=0.391 fidgeting=0.508 -> fidgeting | attention_score=10
+attentive=0.098 drowsy=0.289 fidgeting=0.613 -> fidgeting | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.105 drowsy=0.328 fidgeting=0.566 -> fidgeting | attention_score=11
+attentive=0.066 drowsy=0.578 fidgeting=0.355 -> drowsy | attention_score=7
+Collecting IMU window: 65/128
+attentive=0.105 drowsy=0.602 fidgeting=0.293 -> drowsy | attention_score=11
+attentive=0.230 drowsy=0.047 fidgeting=0.723 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.141 drowsy=0.758 fidgeting=0.102 -> drowsy | attention_score=14
+attentive=0.035 drowsy=0.941 fidgeting=0.023 -> drowsy | attention_score=4
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.297 fidgeting=0.437 -> fidgeting | attention_score=27
+attentive=0.219 drowsy=0.121 fidgeting=0.660 -> fidgeting | attention_score=22
+Collecting IMU window: 65/128
+attentive=0.172 drowsy=0.156 fidgeting=0.672 -> fidgeting | attention_score=17
+attentive=0.086 drowsy=0.211 fidgeting=0.703 -> fidgeting | attention_score=9
+Collecting IMU window: 65/128
+attentive=0.117 drowsy=0.246 fidgeting=0.637 -> fidgeting | attention_score=12
+attentive=0.246 drowsy=0.062 fidgeting=0.695 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.230 drowsy=0.059 fidgeting=0.715 -> fidgeting | attention_score=23
+attentive=0.129 drowsy=0.039 fidgeting=0.828 -> fidgeting | attention_score=13
+Collecting IMU window: 65/128
+attentive=0.137 drowsy=0.121 fidgeting=0.742 -> fidgeting | attention_score=14
+attentive=0.215 drowsy=0.195 fidgeting=0.590 -> fidgeting | attention_score=21
+Collecting IMU window: 65/128
+attentive=0.133 drowsy=0.523 fidgeting=0.344 -> drowsy | attention_score=13
+attentive=0.129 drowsy=0.465 fidgeting=0.406 -> drowsy | attention_score=13
+Collecting IMU window: 65/128
+attentive=0.195 drowsy=0.363 fidgeting=0.441 -> fidgeting | attention_score=20
+Collecting IMU window: 126/128
+attentive=0.176 drowsy=0.297 fidgeting=0.531 -> fidgeting | attention_score=18
+attentive=0.187 drowsy=0.359 fidgeting=0.453 -> fidgeting | attention_score=19
+Collecting IMU window: 65/128
+attentive=0.195 drowsy=0.375 fidgeting=0.430 -> fidgeting | attention_score=20
+attentive=0.254 drowsy=0.156 fidgeting=0.590 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.277 drowsy=0.082 fidgeting=0.645 -> fidgeting | attention_score=28
+attentive=0.262 drowsy=0.086 fidgeting=0.652 -> fidgeting | attention_score=26
+Collecting IMU window: 65/128
+attentive=0.309 drowsy=0.121 fidgeting=0.570 -> fidgeting | attention_score=31
+attentive=0.117 drowsy=0.426 fidgeting=0.457 -> fidgeting | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.133 drowsy=0.426 fidgeting=0.441 -> fidgeting | attention_score=13
+attentive=0.301 drowsy=0.070 fidgeting=0.633 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.309 drowsy=0.082 fidgeting=0.609 -> fidgeting | attention_score=31
+attentive=0.301 drowsy=0.121 fidgeting=0.578 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.195 drowsy=0.437 fidgeting=0.371 -> drowsy | attention_score=19
+attentive=0.195 drowsy=0.422 fidgeting=0.383 -> drowsy | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.238 drowsy=0.082 fidgeting=0.680 -> fidgeting | attention_score=24
+attentive=0.312 drowsy=0.145 fidgeting=0.543 -> fidgeting | attention_score=31
+Collecting IMU window: 65/128
+attentive=0.164 drowsy=0.129 fidgeting=0.707 -> fidgeting | attention_score=16
+attentive=0.113 drowsy=0.105 fidgeting=0.785 -> fidgeting | attention_score=11
+Collecting IMU window: 65/128
+attentive=0.164 drowsy=0.484 fidgeting=0.352 -> drowsy | attention_score=16
+attentive=0.102 drowsy=0.680 fidgeting=0.219 -> drowsy | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.156 drowsy=0.387 fidgeting=0.457 -> fidgeting | attention_score=16
+attentive=0.098 drowsy=0.734 fidgeting=0.168 -> drowsy | attention_score=10
+Collecting IMU window: 65/128
+attentive=0.027 drowsy=0.945 fidgeting=0.031 -> drowsy | attention_score=3
+attentive=0.113 drowsy=0.742 fidgeting=0.145 -> drowsy | attention_score=11
+Collecting IMU window: 65/128
+attentive=0.031 drowsy=0.937 fidgeting=0.031 -> drowsy | attention_score=3
+attentive=0.004 drowsy=0.988 fidgeting=0.008 -> drowsy | attention_score=0
+Collecting IMU window: 65/128
+attentive=0.016 drowsy=0.965 fidgeting=0.020 -> drowsy | attention_score=2
+attentive=0.121 drowsy=0.664 fidgeting=0.215 -> drowsy | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.227 drowsy=0.129 fidgeting=0.641 -> fidgeting | attention_score=23
+attentive=0.121 drowsy=0.426 fidgeting=0.453 -> fidgeting | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.023 drowsy=0.926 fidgeting=0.051 -> drowsy | attention_score=2
+attentive=0.117 drowsy=0.586 fidgeting=0.297 -> drowsy | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.191 drowsy=0.211 fidgeting=0.598 -> fidgeting | attention_score=19
+attentive=0.141 drowsy=0.312 fidgeting=0.547 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.066 drowsy=0.105 fidgeting=0.832 -> fidgeting | attention_score=7
+attentive=0.082 drowsy=0.277 fidgeting=0.645 -> fidgeting | attention_score=8
+Collecting IMU window: 65/128
+attentive=0.184 drowsy=0.414 fidgeting=0.402 -> drowsy | attention_score=18
+attentive=0.254 drowsy=0.094 fidgeting=0.652 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.277 drowsy=0.117 fidgeting=0.605 -> fidgeting | attention_score=28
+attentive=0.316 drowsy=0.137 fidgeting=0.547 -> fidgeting | attention_score=32
+Collecting IMU window: 65/128
+attentive=0.309 drowsy=0.098 fidgeting=0.594 -> fidgeting | attention_score=31
+attentive=0.270 drowsy=0.062 fidgeting=0.668 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.168 fidgeting=0.562 -> fidgeting | attention_score=27
+attentive=0.168 drowsy=0.223 fidgeting=0.609 -> fidgeting | attention_score=17
+Collecting IMU window: 65/128
+attentive=0.164 drowsy=0.133 fidgeting=0.703 -> fidgeting | attention_score=16
+attentive=0.270 drowsy=0.316 fidgeting=0.414 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.262 drowsy=0.270 fidgeting=0.469 -> fidgeting | attention_score=26
+attentive=0.199 drowsy=0.039 fidgeting=0.762 -> fidgeting | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.180 drowsy=0.078 fidgeting=0.746 -> fidgeting | attention_score=18
+attentive=0.141 drowsy=0.051 fidgeting=0.809 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.262 drowsy=0.070 fidgeting=0.672 -> fidgeting | attention_score=26
+attentive=0.316 drowsy=0.113 fidgeting=0.570 -> fidgeting | attention_score=32
+Collecting IMU window: 65/128
+attentive=0.277 drowsy=0.074 fidgeting=0.648 -> fidgeting | attention_score=28
+attentive=0.277 drowsy=0.074 fidgeting=0.648 -> fidgeting | attention_score=28
+Collecting IMU window: 65/128
+attentive=0.207 drowsy=0.105 fidgeting=0.687 -> fidgeting | attention_score=21
+attentive=0.203 drowsy=0.082 fidgeting=0.715 -> fidgeting | attention_score=20
+Collecting IMU window: 65/128
+attentive=0.273 drowsy=0.090 fidgeting=0.637 -> fidgeting | attention_score=27
+attentive=0.250 drowsy=0.082 fidgeting=0.664 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.078 fidgeting=0.656 -> fidgeting | attention_score=27
+attentive=0.305 drowsy=0.098 fidgeting=0.602 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.074 fidgeting=0.660 -> fidgeting | attention_score=27
+attentive=0.234 drowsy=0.055 fidgeting=0.711 -> fidgeting | attention_score=23
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.066 fidgeting=0.664 -> fidgeting | attention_score=27
+attentive=0.297 drowsy=0.078 fidgeting=0.625 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.238 drowsy=0.066 fidgeting=0.695 -> fidgeting | attention_score=24
+attentive=0.211 drowsy=0.062 fidgeting=0.727 -> fidgeting | attention_score=21
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.082 fidgeting=0.648 -> fidgeting | attention_score=27
+attentive=0.305 drowsy=0.098 fidgeting=0.602 -> fidgeting | attention_score=30
+Collecting IMU window: 65/128
+attentive=0.281 drowsy=0.086 fidgeting=0.633 -> fidgeting | attention_score=28
+attentive=0.266 drowsy=0.078 fidgeting=0.656 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.242 drowsy=0.070 fidgeting=0.687 -> fidgeting | attention_score=24
+attentive=0.246 drowsy=0.082 fidgeting=0.672 -> fidgeting | attention_score=25
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.102 fidgeting=0.637 -> fidgeting | attention_score=26
+attentive=0.270 drowsy=0.078 fidgeting=0.652 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.254 drowsy=0.074 fidgeting=0.672 -> fidgeting | attention_score=25
+attentive=0.270 drowsy=0.078 fidgeting=0.652 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.281 drowsy=0.086 fidgeting=0.633 -> fidgeting | attention_score=28
+attentive=0.238 drowsy=0.129 fidgeting=0.633 -> fidgeting | attention_score=24
+Collecting IMU window: 65/128
+attentive=0.184 drowsy=0.148 fidgeting=0.668 -> fidgeting | attention_score=18
+attentive=0.195 drowsy=0.223 fidgeting=0.586 -> fidgeting | attention_score=19
+Collecting IMU window: 65/128
+attentive=0.148 drowsy=0.133 fidgeting=0.719 -> fidgeting | attention_score=15
+Collecting IMU window: 126/128
+attentive=0.137 drowsy=0.145 fidgeting=0.719 -> fidgeting | attention_score=14
+attentive=0.238 drowsy=0.148 fidgeting=0.613 -> fidgeting | attention_score=24
+Collecting IMU window: 65/128
+attentive=0.172 drowsy=0.102 fidgeting=0.727 -> fidgeting | attention_score=17
+attentive=0.141 drowsy=0.062 fidgeting=0.797 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.082 drowsy=0.051 fidgeting=0.867 -> fidgeting | attention_score=8
+attentive=0.117 drowsy=0.145 fidgeting=0.738 -> fidgeting | attention_score=12
+Collecting IMU window: 65/128
+attentive=0.133 drowsy=0.703 fidgeting=0.164 -> drowsy | attention_score=13
+attentive=0.113 drowsy=0.574 fidgeting=0.312 -> drowsy | attention_score=11
+Collecting IMU window: 65/128
+attentive=0.109 drowsy=0.250 fidgeting=0.641 -> fidgeting | attention_score=11
+attentive=0.148 drowsy=0.258 fidgeting=0.598 -> fidgeting | attention_score=15
+Collecting IMU window: 65/128
+attentive=0.234 drowsy=0.066 fidgeting=0.703 -> fidgeting | attention_score=23
+attentive=0.285 drowsy=0.066 fidgeting=0.648 -> fidgeting | attention_score=29
+Collecting IMU window: 65/128
+attentive=0.141 drowsy=0.348 fidgeting=0.512 -> fidgeting | attention_score=14
+attentive=0.141 drowsy=0.340 fidgeting=0.520 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.270 drowsy=0.121 fidgeting=0.609 -> fidgeting | attention_score=27
+attentive=0.273 drowsy=0.109 fidgeting=0.617 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.266 drowsy=0.066 fidgeting=0.664 -> fidgeting | attention_score=27
+attentive=0.094 drowsy=0.113 fidgeting=0.793 -> fidgeting | attention_score=9
+Collecting IMU window: 65/128
+attentive=0.109 drowsy=0.285 fidgeting=0.602 -> fidgeting | attention_score=11
+attentive=0.273 drowsy=0.223 fidgeting=0.504 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.219 drowsy=0.047 fidgeting=0.730 -> fidgeting | attention_score=22
+attentive=0.141 drowsy=0.066 fidgeting=0.793 -> fidgeting | attention_score=14
+Collecting IMU window: 65/128
+attentive=0.113 drowsy=0.098 fidgeting=0.789 -> fidgeting | attention_score=11
+attentive=0.172 drowsy=0.289 fidgeting=0.539 -> fidgeting | attention_score=17
+Collecting IMU window: 65/128
+attentive=0.203 drowsy=0.398 fidgeting=0.398 -> drowsy | attention_score=20
+attentive=0.266 drowsy=0.273 fidgeting=0.461 -> fidgeting | attention_score=27
+Collecting IMU window: 65/128
+attentive=0.152 drowsy=0.176 fidgeting=0.672 -> fidgeting | attention_score=15
+attentive=0.164 drowsy=0.215 fidgeting=0.621 -> fidgeting | attention_score=16
+Collecting IMU window: 65/128
+attentive=0.293 drowsy=0.199 fidgeting=0.508 -> fidgeting | attention_score=29
+attentive=0.320 drowsy=0.195 fidgeting=0.484 -> fidgeting | attention_score=32
